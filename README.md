@@ -1,2 +1,2 @@
-# shopping--list
+# shopping-list
 shopping list for git workshop
